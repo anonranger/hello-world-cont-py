@@ -1,5 +1,5 @@
-# hello-world-cont-py
-Sample docker container application code for python flask application. 
+
+#Sample docker container application code for python flask applications
 
 **Commands**
 
