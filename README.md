@@ -1,7 +1,7 @@
 # hello-world-cont-py
 sample container application for python flask
 
-Commands:
+**Commands**
 
 docker build -r hello-world-cont-py:latest .
 
