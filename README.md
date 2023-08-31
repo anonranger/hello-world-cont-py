@@ -1,5 +1,5 @@
 # hello-world-cont-py
-sample container application for python flask
+Sample docker container application code for python flask application. 
 
 **Commands**
 
@@ -9,6 +9,6 @@ docker images
 
 docker run hello-world-cont-py:latest
 
-#commands to pass the image from Docker desktop to AWS ECR
+**Commands to pass the image from Docker desktop to AWS ECR**
 
 
